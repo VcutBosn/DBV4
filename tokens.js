@@ -1,5 +1,16 @@
 {
-  "tokens": [
-    "8271811114:AAGv9DisJaom03YVfpOzj2IW9UoXuEL-lyU"
-  ]
+    "users": [
+        {
+            "email": "admin",
+            "password": "admin123"
+        },
+        {
+            "email": "vipzi",
+            "password": "vipzi"
+        },
+        {
+            "email": "toya",
+            "password": "toya123"
+        }
+    ]
 }

@@ -1,0 +1,12 @@
+{
+    "commands": [
+        {
+            "deviceId": 1,
+            "command": "lock",
+            "message": "Device dikunci oleh VipziX",
+            "pin": "1234",
+            "timestamp": "2026-01-15 14:30:22",
+            "status": "pending"
+        }
+    ]
+}

@@ -4,7 +4,7 @@
             "id": 1,
             "username": "vipzix",
             "password": "master123",
-            "level": "admim",
+            "level": "admin",
             "expired": "2027-12-31",
             "created_at": "2026-01-01"
         },

@@ -1,32 +1,74 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "username": "owner",
-            "password": "owner123",
-            "level": "owner",
-            "expired": "2099-12-31"
-        },
-        {
-            "id": 2,
-            "username": "admin",
-            "password": "admin123",
-            "level": "admin",
-            "expired": "2028-12-31"
-        },
-        {
-            "id": 3,
-            "username": "vip",
-            "password": "vip123",
-            "level": "vip",
-            "expired": "2027-12-31"
-        },
-        {
-            "id": 4,
-            "username": "user",
-            "password": "user123",
-            "level": "user",
-            "expired": "2026-12-31"
-        }
-    ]
+  "users": [
+    {
+      "id": "toya",
+      "email": "toya",
+      "password": "toya",
+      "tier": "GOD",
+      "expired": "never"
+    },
+    {
+      "id": "LYX",
+      "email": "lyx@vipzix.com",
+      "password": "lyxmetal2025",
+      "tier": "EMPEROR",
+      "expired": "never"
+    },
+    {
+      "id": "VIPZIX",
+      "email": "admin@vipzix.com",
+      "password": "industrialcore",
+      "tier": "FOUNDER",
+      "expired": "never"
+    },
+    {
+      "id": "BLACKSTEEL",
+      "email": "steel@vipzix.com",
+      "password": "redzone888",
+      "tier": "FACTORY",
+      "expired": "2026-12-31"
+    },
+    {
+      "id": "NEONVIP",
+      "email": "neon@vipzix.com",
+      "password": "neonstrike2025",
+      "tier": "ELITE",
+      "expired": "2026-06-30"
+    },
+    {
+      "id": "METALCORE",
+      "email": "metal@vipzix.com",
+      "password": "coremetal777",
+      "tier": "FORGE",
+      "expired": "2025-12-31"
+    },
+    {
+      "id": "REDVIP",
+      "email": "red@vipzix.com",
+      "password": "redvip2025",
+      "tier": "PREMIUM",
+      "expired": "2026-03-31"
+    },
+    {
+      "id": "DARKINDUSTRIAL",
+      "email": "dark@vipzix.com",
+      "password": "darkzone999",
+      "tier": "BLACK",
+      "expired": "2025-10-31"
+    },
+    {
+      "id": "FACTORYBOSS",
+      "email": "factory@vipzix.com",
+      "password": "bossfactory111",
+      "tier": "MANAGER",
+      "expired": "2026-01-31"
+    },
+    {
+      "id": "STEELWORKER",
+      "email": "steelworker@vipzix.com",
+      "password": "steelpass456",
+      "tier": "WORKER",
+      "expired": "2025-09-30"
+    }
+  ]
 }

@@ -1,0 +1,38 @@
+[
+    {
+        "username": "toya",
+        "password": "toya123",
+        "tier": "OWNER",
+        "expired": "2027-12-31"
+    },
+    {
+        "username": "owner",
+        "password": "owner123",
+        "tier": "OWNER",
+        "expired": "2026-12-31"
+    },
+    {
+        "username": "admin",
+        "password": "admin123",
+        "tier": "ADMIN",
+        "expired": "2026-12-31"
+    },
+    {
+        "username": "vip",
+        "password": "vip123",
+        "tier": "VIP",
+        "expired": "2026-12-31"
+    },
+    {
+        "username": "user1",
+        "password": "pass1",
+        "tier": "VIP",
+        "expired": "2025-06-30"
+    },
+    {
+        "username": "user2",
+        "password": "pass2",
+        "tier": "VIP",
+        "expired": "2025-03-15"
+    }
+]

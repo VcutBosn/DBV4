@@ -1,0 +1,7 @@
+{
+  "owners": ["toya", "owner"],
+  "akses": ["admin", "vip", "user1", "user2"],
+  "resellers": [],
+  "pts": [],
+  "moderators": []
+}

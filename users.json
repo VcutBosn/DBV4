@@ -1,39 +1,22 @@
-[
+{
+  "users": [
     {
-        "username": "toya",
-        "key": "TOYA001",
-        "password": "toya123",
-        "expired": 1828828800000,
-        "tier": "owner",
-        "createdBy": "system",
-        "createdAt": "2025-06-18T08:00:00.000Z"
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "owner",
+      "expired": "2099-12-31",
+      "created_at": "2025-01-01",
+      "is_active": true
     },
     {
-        "username": "owner",
-        "key": "OWNER01",
-        "password": "owner123",
-        "expired": 1798761600000,
-        "tier": "owner",
-        "createdBy": "system",
-        "createdAt": "2025-06-18T08:00:00.000Z"
-    },
-    {
-        "username": "admin",
-        "key": "ADMIN01",
-        "password": "admin123",
-        "expired": 1798761600000,
-        "tier": "admin",
-        "createdBy": "system",
-        "createdAt": "2025-06-18T08:00:00.000Z"
-    },
-    {
-        "username": "vip",
-        "key": "VIP001",
-        "password": "vip123",
-        "expired": 1798761600000,
-        "tier": "vip",
-        "createdBy": "system",
-        "createdAt": "2025-06-18T08:00:00.000Z"
+      "id": 2,
+      "username": "toya",
+      "password": "toya123",
+      "role": "vip",
+      "expired": "2026-07-20",
+      "created_at": "2026-07-14",
+      "is_active": true
     }
-]    }
-]
+  ]
+}
